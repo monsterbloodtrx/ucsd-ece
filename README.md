@@ -1,3 +1,3 @@
 # ucsd-ece
 
-Bet you cnt fx ths! :-P
+Bet you can't fix this!
